@@ -1,5 +1,9 @@
 # HTML Basics
 
+## What is HTML?
+
+**HTML** stands for **H**yper **T**ext **M**arkup **L**anguage. HTML is used to build the skeleton of the website including which elements (text, images, buttons, etc.) should be included and the order in which they appear. Web browsers like Chrome or Safari know how to interpret HTML files and render their contents as an interactive web page.
+
 ## HTML Boilerplate
 
 **The HTML file is the most important file when building a basic website.** Some online IDEs like [Glitch](https://glitch.com/) or [Replit](https://replit.com/), you may notice that a basic website project comes pre-loaded with at least 3 files with the names `index.html`, `style.css`, and `script.js`. These are typical generic names an HTML, CSS, and JavaScript file, but you can name your files any name you want. It is always best practice to give your files a short descriptive name so that it is easier for others to view your code.
