@@ -7,3 +7,10 @@
 All websites **must have at least one HTML file**, but CSS style and JavaScript script files are **optional**. To learn more about file naming conventions and organization tips, check out [MDN web docs on dealing with files](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files).
 
 *Note:* Web servers will often default to loading the `index.html` file if multiple HTML files are present, unless otherwise specified.
+HTML files typically contain things like:
+
+- the text contents of a web page, structured into a hierarchy of page elements
+- hyperlinks to other pages
+- references to other files like images, CSS files, and JavaScript files
+- definitions for interactive controls like buttons and text fields
+- metadata to help web browsers understand the contents of the page
